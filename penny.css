@@ -1,0 +1,25 @@
+body{
+	margin: 0;
+	background-color: #900C3F;
+	text-align: center;
+}
+h1, h2{font-family: 'Dancing Script', cursive; color: white
+;}
+header{background-color: #34495E; padding-top: 50px; padding-bottom: 50px;}
+header h1{color: white;text-align: center;font-family: 'Dancing Script', cursive;}
+header img{border-radius: 150px; width: 300px;border:20px solid black;}
+main{max-width: 1920px; margin:0 auto; padding: 20px}
+main img{max-width: 100%;}
+a{
+	color: yellow;
+}
+a:hover{
+	color: orange;
+}
+footer{background-color: white;}
+p{
+	font-style:italic; color:teal; line-height: 20px; margin: 40px;
+}
+ol{
+	font-style: italic;
+}
